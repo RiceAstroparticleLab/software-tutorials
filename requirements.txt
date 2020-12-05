@@ -2,3 +2,4 @@ pandas
 nestpy
 numpy
 matplotlib
+jsonlib
