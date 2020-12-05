@@ -1,4 +1,3 @@
-jsonlib
 pandas
 nestpy
 numpy
