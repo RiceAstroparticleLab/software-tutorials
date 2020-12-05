@@ -1,0 +1,5 @@
+jsonlib
+pandas
+nestpy
+numpy
+matplotlib
