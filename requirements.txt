@@ -1,5 +1,5 @@
 pandas
-nestpy
+nestpy == 1.3.0
 numpy
 matplotlib
 jsonlib
